@@ -1,0 +1,14 @@
+{
+  "name": "donote",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Luciano Santos",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^4.1.1"
+  }
+}
